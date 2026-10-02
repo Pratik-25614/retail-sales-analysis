@@ -15,18 +15,17 @@ Superstore Sales Dataset (Kaggle), 9,994 transactions.
 - Built 6 visualizations
 
 ## Key Insights
-- (your sentence from Q1)
-- (your sentence from Q2)
-- (your sentence from Q3)
-- (your sentence from Q4)
-- (your sentence from Q5)
-- (your sentence from Q6)
+Q1. Which year had the highest sales and what was the growth?
+Q2. Which months are strongest?
+Q3. Which category and sub-category sell the most?
+Q4. Which region and state are the top?
+Q5. Do the top customers matter?
+Q6. Which ship mode is fastest?
 
 ## Recommendations
-- (recommendation 1)
-- (recommendation 2)
-- (recommendation 3)
-
+Increase stock and run promotions before [peak months], since demand is highest then.
+Focus marketing on the [top region] region and [top category] products.
+Offer loyalty rewards to the top customers to keep them buying.
 ## Charts
 ![Sales by Year](sales_by_year.png)
 ![Profit by Category](profit_by_category.png)
