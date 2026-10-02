@@ -15,12 +15,17 @@ Superstore Sales Dataset (Kaggle), 9,994 transactions.
 - Built 6 visualizations
 
 ## Key Insights
-- (Write your finding 1 here, e.g. "Technology is the most profitable category")
-- (Write your finding 2 here, e.g. "Tables and Bookcases lose money")
-- (Write your finding 3 here, e.g. "Discounts above 30% almost always cause a loss")
+- (your sentence from Q1)
+- (your sentence from Q2)
+- (your sentence from Q3)
+- (your sentence from Q4)
+- (your sentence from Q5)
+- (your sentence from Q6)
 
 ## Recommendations
-- (Write 1 or 2 business suggestions)
+- (recommendation 1)
+- (recommendation 2)
+- (recommendation 3)
 
 ## Charts
 ![Sales by Year](sales_by_year.png)
